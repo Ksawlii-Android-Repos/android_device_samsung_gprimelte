@@ -6,7 +6,7 @@ $(call inherit-product, device/samsung/gprimelte/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := gprimelte
-PRODUCT_NAME := lineage_gprimelte
+PRODUCT_NAME := havoc_gprimelte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G530W
 PRODUCT_MANUFACTURER := samsung
